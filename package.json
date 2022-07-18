@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start-server": "nodemon --exec index.js",
+    "start-test": "mocha tests/weather.test.js",
     "start": "node index.js"
   },
   "keywords": [],
