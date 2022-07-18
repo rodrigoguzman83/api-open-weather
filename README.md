@@ -1,4 +1,4 @@
-# Backend Test
+# Backend Api Open Weather
 Preferentemente desarrollar sobre NodeJS.
 Se requiere implementar una API que provea en formato JSON el estado del tiempo basado en
 diferentes endpoints.
